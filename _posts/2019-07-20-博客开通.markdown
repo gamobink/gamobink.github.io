@@ -1,0 +1,9 @@
+---
+layout: blog
+title:  "博客开通!"
+date:   2019-07-20 13:03:15 +0800
+categories: other
+---
+深圳，中国，2019-07-20，雨
+
+开通 Github Pages 以记录日常点滴
