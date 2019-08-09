@@ -1,6 +1,6 @@
-   ---
+---
 layout: blog
-title:  "博客开通!"
+title:  "林园经典语录(转)"
 date:   2019-08-09 13:05:15 +0800
 categories: 金融
 ---
